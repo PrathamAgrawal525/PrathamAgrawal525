@@ -6,4 +6,3 @@
 *   💞️ Looking for an opportunity to showcase skills.
 *   😄 Pronouns: he/him.
 *   ⚡ Fun fact: Life is a game where we are both source code and compiler.
-*   
