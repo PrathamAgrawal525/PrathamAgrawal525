@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="mailto:agrawalpratham525@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
   <a href="https://PrathamAgrawal525.github.io">
