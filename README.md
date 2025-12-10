@@ -30,12 +30,12 @@
 
 ## ✨ About Me
 
-👀 A curious explorer, always excited to learn something new
-🌱 Pursuing B.Tech CSE (AI & DS)
-💡 Passionate about software development, AI, analytics & problem-solving
-💞️ Looking for opportunities to showcase my skills & grow
-😄 Pronouns: he/him
-⚡ Fun fact: Life is a game where we are both source code and compiler.
+-👀 A curious explorer, always excited to learn something new
+-🌱 Pursuing B.Tech CSE (AI & DS)
+-💡 Passionate about software development, AI, analytics & problem-solving
+-💞️ Looking for opportunities to showcase my skills & grow
+-😄 Pronouns: he/him
+-⚡ Fun fact: Life is a game where we are both source code and compiler.
 
 ---
 
