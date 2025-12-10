@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;I'm+Pratham+Agrawal;Software+Developer+%7C+AI+%26+DS+Enthusiast;Always+Learning+%F0%9F%9A%80" />
 </p>
 
-<!-- Futuristic Banner Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChungZH/ChungZH/main/images/typing.svg" width="800" />
-</p>
-
-<br/>
-
 <!-- Avatar with Glow Animation -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/PrathamAgrawal525" width="160" style="border-radius:20px; animation: glow 4s infinite alternate;" />
