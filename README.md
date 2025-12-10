@@ -8,10 +8,6 @@
   <img src="https://avatars.githubusercontent.com/PrathamAgrawal525" width="160" style="border-radius:20px; animation: glow 4s infinite alternate;" />
 </p>
 
-<style>
-@keyframes glow { from { box-shadow: 0 0 10px #00eaff; } to { box-shadow: 0 0 30px #00ffae; } }
-</style>
-
 ---
 
 <h2 align="center">🧰 Tech Stack</h2>
