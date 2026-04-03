@@ -1,68 +1,143 @@
-<!-- Animated Header -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;I'm+Pratham+Agrawal;Software+Developer+%7C+AI+%26+DS+Enthusiast;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Pratham%20Agrawal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- Avatar with Glow Animation -->
+<!-- PROFESSIONAL TYPING INTRO -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/PrathamAgrawal525" width="160" style="border-radius:20px; animation: glow 4s infinite alternate;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Developer;AI+%26+Data+Science+Student;Building+Scalable+and+Usable+Systems;Focused+on+Performance+and+Clean+Architecture" />
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Professional Summary
 
-<div align="center">
-
-### **Frontend & Core**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</div>
+- 🎓 B.Tech CSE (AI & DS)  
+- 💻 Engineer focused on **building scalable, production-ready applications**  
+- 📊 Strong foundation in **data analytics & visualization systems**  
+- ⚡ Emphasis on **performance, clean architecture, and usability**  
+- 🚀 Experience working on **real-world projects through internships**
 
 ---
 
-## ✨ About Me
+## 💼 Experience
 
-- 👀 **A curious explorer**, always excited to learn something new  
-- 🌱 **Pursuing B.Tech CSE (AI & DS)**  
-- 💡 **Passionate about software development, AI, analytics & problem-solving**  
-- 💞️ **Looking for opportunities to showcase my skills & grow**  
-- 😄 **Pronouns:** he/him  
-- ⚡ **Fun fact:** Life is a game where we are both source code and compiler
+### 🏢 Microsoft Elevate Internship  
+- Completed internship focused on **Data Analytics & Power BI**  
+- Built **interactive dashboards** using real-world datasets  
+- Gained hands-on experience in **data visualization & insights generation**  
+- Worked on transforming raw data into **actionable business insights**
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
+### 🏢 Uptoskills — Frontend Developer Intern *(Current)*  
+- Working on **real-world projects**  
+- Building responsive UI using **modern web technologies**  
+- Improving **user experience and interface design**  
+- Collaborating on structured development workflows  
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mongodb,mysql,sqlite&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Platform  
+- Designed and developed a **fully responsive developer portfolio**  
+- Built with **React + Tailwind CSS**  
+- Optimized for **performance and accessibility**  
+
+🔗 https://PrathamAgrawal525.github.io  
+
+---
+
+### 📊 Data Analytics Dashboard (Power BI)  
+- Built **interactive dashboards using real-world datasets**  
+- Delivered **clear insights through data storytelling**  
+- Focused on **clean UI and decision-driven metrics**  
+
+---
+
+### 🐾 NGO Management System *(In Progress)*  
+- Developing a **scalable admin dashboard**  
+- Implementing **role-based access control (RBAC)**  
+- Improving operational efficiency through **digital workflows**  
+
+---
+
+## 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathamAgrawal525&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PrathamAgrawal525&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathamAgrawal525&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 What I Deliver
+
+- ⚡ **Production-ready web applications**  
+- 📊 **Data-driven dashboards with real insights**  
+- 🧩 **Clean, scalable, maintainable codebases**  
+- 🎯 Focus on **performance + user experience**
+
+---
+
+## ⚙️ Current Focus
+
+- 🚀 Full-stack development  
+- 🧠 System design fundamentals  
+- 📊 Advanced analytics  
+- ⚡ Performance optimization  
+
+---
+
+## 📫 Connect
 
 <p align="center">
   <a href="mailto:agrawalpratham525@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
   </a>
-  
-  <a href="https://PrathamAgrawal525.github.io">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  
+
+  <img width="20"/>
+
   <a href="https://www.linkedin.com/in/pratham-agrawal-9aaa10358/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
   </a>
+
+  <img width="20"/>
+
+  <a href="https://PrathamAgrawal525.github.io">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
+</a>
 </p>
 
 ---
 
-<!-- Wavy Animated Footer -->
+## 👁️ Profile Views
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00eaff,100:00ffae&text=Thanks+for+visiting!&section=footer&fontColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=PrathamAgrawal525&color=00E5FF&style=flat"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
