@@ -186,17 +186,6 @@ Modern portfolio built using React + Tailwind CSS.
 
 ---
 
-## 📁 Assets
-
-```text
-assets/
-├── interview-planner.png
-├── qr-studio.png
-├── ngo-dashboard.png
-├── portfolio.png
-└── powerbi-dashboard.png
-```
-
 > ⭐ Code with purpose. Build with passion. Keep learning.
 
 <p align="center">
